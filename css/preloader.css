@@ -1,0 +1,20 @@
+#load{
+	position: fixed;
+	left: 0;
+	top: 0;
+	right:0;
+	bottom:0;
+	background: #222629;
+}
+ 
+#load div{
+	position: absolute;
+	left: 45%;
+	top: 35%;
+	text-align:center;
+}
+ 
+#load div p{
+	margin-top:20px;
+	color:#FFFFFF;
+}	
